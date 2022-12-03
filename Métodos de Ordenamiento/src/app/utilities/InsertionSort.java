@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Césat Luygi Salcedo Espriella (Luigi Salcedo)
+ * @author César Luygi Salcedo Espriella (Luigi Salcedo)
  */
 public class InsertionSort implements Sorter
 {
